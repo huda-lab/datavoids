@@ -13,6 +13,9 @@ It helps users to:
 
 Repository: [https://github.com/huda-lab/datavoids-explorer](https://github.com/huda-lab/datavoids-explorer)
 
+Screenshot of the application in the results section of one of our user studies:
+
+![datavoids-explorer-screenshot](/Resources/results-example-nellie.png)
 
 ## Datavoids KG
 
