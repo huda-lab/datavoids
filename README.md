@@ -17,6 +17,10 @@ Screenshot of the application in the results section of one of our user studies:
 
 ![datavoids-explorer-screenshot](/Resources/results-example-nellie.png)
 
+## Datavoids Simulator
+
+https://github.com/huda-lab/datavoids-simulator
+
 ## Datavoids KG
 
 https://github.com/huda-lab/datavoids-kg
