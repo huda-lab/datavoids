@@ -16,6 +16,7 @@ This project consists of three main repositories:
 **Repository**: [https://github.com/huda-lab/datavoids-explorer](https://github.com/huda-lab/datavoids-explorer)
 
 This tool helps users retrieve and store the top K Google Search results over time, retrieve their content, label the content using LLMs and manual labeling, and visually display results. It was used to create the Nellie Ohr Case Study presented in our paper.
+
 ![datavoids-explorer-screenshot](/Resources/results-example-nellie.png)
 
 ### Datavoids Web Simulator 
