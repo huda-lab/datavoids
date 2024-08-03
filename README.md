@@ -24,6 +24,11 @@ This tool helps users retrieve and store the top K Google Search results over ti
 
 This simulator models the Web search game described in the paper, where two agents compete to push the respective search rank of their narrative following the presence of a data void in the Web, represented by Wikipedia pages.
 
+Some of the results can be illustrated from our main research paper. The following figure shows the difference in effects between the mitigator and disinformer at every turn of the web search simulation across four data void scenarios:
+
+![figure3](https://github.com/user-attachments/assets/5d2eb25e-3b40-440c-a21e-3c59c6fc017e)
+
+
 ### Datavoids Knowledge Graph Simulator
 **Repository**: [https://github.com/huda-lab/datavoids-kg](https://github.com/huda-lab/datavoids-kg)
 
