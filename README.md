@@ -34,6 +34,10 @@ Some of the results can be illustrated from our main research paper. The followi
 
 This simulator models the Knowledge Graph querying game, where two agents compete to influence the link prediction ranking of their respective triples following the presence of a data void in the FB15k-237 dataset.
 
+The following figure, similar to the case of the Web presented above, also shows the difference in effect across four different datavoid scenarios.
+
+![kg-graphs](/Resources/kg.png)
+
 ## Citation
 
 If you use this code or find our work helpful, please cite our paper:
